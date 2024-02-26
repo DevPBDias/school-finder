@@ -2,8 +2,7 @@ import Schools from "../models/Schools.js";
 
 const createSchool = (body) => Schools.create(body);
 
-const getAllSchools = (offset, limit) => Schools
-    .find().sort({ _id: -1 }).skip(offset).limit(limit);
+const getAllSchools = () => Schools.find().sort({ _id: -1 });
 
 const getSchoolById = (id) => Schools.findById(id);
 
