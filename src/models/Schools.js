@@ -31,30 +31,33 @@ const SchoolSchema = new mongoose.Schema({
         required: true,
     },
     schoolFeedback: {
-        type: [Number],
+        type: Array,
         required: true,
     },
     educationType: {
-        kindergarten: {
-            vacancies: { type: Number },
-            shifts: { type: String },
-            schoolFee: { type: Number }
+        type: {
+            kindergarten: {
+                vacancies: { type: Number },
+                shifts: { type: String },
+                schoolFee: { type: Number }
+            },
+            primarySchool: {
+                vacancies: { type: Number },
+                shifts: { type: String },
+                schoolFee: { type: Number }
+            },
+            secondarySchool: {
+                vacancies: { type: Number },
+                shifts: { type: String },
+                schoolFee: { type: Number }
+            },
+            highSchool: {
+                vacancies: { type: Number },
+                shifts: { type: String },
+                schoolFee: { type: Number }
+            },
         },
-        primarySchool: {
-            vacancies: { type: Number },
-            shifts: { type: String },
-            schoolFee: { type: Number }
-        },
-        secondarySchool: {
-            vacancies: { type: Number },
-            shifts: { type: String },
-            schoolFee: { type: Number }
-        },
-        highSchool: {
-            vacancies: { type: Number },
-            shifts: { type: String },
-            schoolFee: { type: Number }
-        },
+        required: true,
     },
     createdAt: {
         type: Date,
