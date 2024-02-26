@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import schoolService from '../services/school.service.js'
 
 
-export const validationSchool = async (req, res, next) => {
+const validationSchool = async (req, res, next) => {
     const schoolId = req.params.id;
 
     const getSchool = await schoolService.getSchoolById(schoolId);
@@ -16,3 +16,5 @@ export const validationSchool = async (req, res, next) => {
 
     next();
 }
+
+export default validationSchool;
