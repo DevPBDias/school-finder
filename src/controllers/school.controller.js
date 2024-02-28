@@ -72,9 +72,25 @@ const addComment = async (req, res) => {
     }
 }
 
+const addImageUrl = async (req, res) => {
+    try {
+        const { id } = req;
+        const { image } = req.body;
+
+        if (!image) res.status(400).send({ message: 'No image url' })
+
+        await schoolService.addComment(id, image)
+
+        res.status(201).send({ message: 'School image updated' })
+    } catch (error) {
+        res.status(500).send({ message: error.message })
+    }
+}
+
 export default {
     createSchool,
     getSchoolById,
     getAllSchools,
-    addComment
+    addComment,
+    addImageUrl
 }

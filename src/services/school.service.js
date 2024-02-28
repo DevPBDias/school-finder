@@ -21,10 +21,17 @@ export const addComment = (idSchool, comment) => {
     );
 };
 
+export const addImage = (idSchool, image) => Schools.findOneAndUpdate(
+    { _id: idSchool },
+    { image },
+    { rawResult: true }
+);
+
 export default {
     createSchool,
     getAllSchools,
     getSchoolById,
     countSchools,
     addComment,
+    addImage,
 }
