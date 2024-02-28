@@ -37,22 +37,22 @@ const SchoolSchema = new mongoose.Schema({
         type: {
             kindergarten: {
                 vacancies: { type: Number },
-                shifts: { type: String },
+                shifts: { type: Array },
                 schoolFee: { type: String }
             },
             primarySchool: {
                 vacancies: { type: Number },
-                shifts: { type: String },
+                shifts: { type: Array },
                 schoolFee: { type: String }
             },
             secondarySchool: {
                 vacancies: { type: Number },
-                shifts: { type: String },
+                shifts: { type: Array },
                 schoolFee: { type: String }
             },
             highSchool: {
                 vacancies: { type: Number },
-                shifts: { type: String },
+                shifts: { type: Array },
                 schoolFee: { type: String }
             },
         },
