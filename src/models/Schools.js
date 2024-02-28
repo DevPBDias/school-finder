@@ -10,6 +10,9 @@ const SchoolSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
+    type: {
+        type: String,
+    },
     neighborhood: {
         type: String,
         required: true,
@@ -22,46 +25,36 @@ const SchoolSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
-    schoolType: {
-        type: String,
-        required: true,
-    },
     about: {
         type: String,
         required: true,
     },
     schoolFeedback: {
         type: Array,
-        required: true,
     },
     educationType: {
         type: {
             kindergarten: {
                 vacancies: { type: Number },
                 shifts: { type: String },
-                schoolFee: { type: Number }
+                schoolFee: { type: String }
             },
             primarySchool: {
                 vacancies: { type: Number },
                 shifts: { type: String },
-                schoolFee: { type: Number }
+                schoolFee: { type: String }
             },
             secondarySchool: {
                 vacancies: { type: Number },
                 shifts: { type: String },
-                schoolFee: { type: Number }
+                schoolFee: { type: String }
             },
             highSchool: {
                 vacancies: { type: Number },
                 shifts: { type: String },
-                schoolFee: { type: Number }
+                schoolFee: { type: String }
             },
         },
-        required: true,
-    },
-    createdAt: {
-        type: Date,
-        default: Date.now(),
     },
 });
 

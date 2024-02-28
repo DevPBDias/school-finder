@@ -4,7 +4,7 @@ const createSchool = async (req, res) => {
     try {
         const body = req.body;
         const { name, city, neighborhood, phoneNumber,
-            adress, schoolType, about, schoolFeedback, educationType } = req.body;
+            adress, type, about, schoolFeedback, educationType } = req.body;
 
         if (!body) res.status(400).send({ message: 'Submit all fields for registration' })
 
@@ -18,10 +18,10 @@ const createSchool = async (req, res) => {
                 id: school.id,
                 name,
                 city,
+                type,
                 neighborhood,
                 phoneNumber,
                 adress,
-                schoolType,
                 about,
                 schoolFeedback,
                 educationType,
@@ -49,7 +49,7 @@ const getAllSchools = async (req, res) => {
 
         if (schools.length === 0) res.status(400).send({ message: 'Schools not found' })
 
-        return res.status(200).send({ schoolsList: schools, countSchools: numberOfSchools });
+        return res.status(200).send({total: numberOfSchools, items: schools});
     } catch (error) {
         res.status(500).send({ message: error.message })
     }

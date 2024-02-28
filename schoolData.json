@@ -1,0 +1,991 @@
+[
+    {
+        "name": "Escola Sol Nascente",
+        "city": "São Paulo",
+        "type": "Privada",
+        "neighborhood": "Jardins",
+        "phoneNumber": "(11) 1234-5678",
+        "adress": "Rua das Flores, 123",
+        "about": "A Escola Sol Nascente é conhecida por sua abordagem inovadora e excelência acadêmica, proporcionando um ambiente de aprendizado estimulante e acolhedor para os alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 25,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.600"
+            },
+            "primarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Monte Verde",
+        "city": "Belo Horizonte",
+        "type": "Pública",
+        "neighborhood": "Centro",
+        "phoneNumber": "(31) 9876-5432",
+        "adress": "Avenida das Montanhas, 456",
+        "about": "A Escola Monte Verde tem como missão proporcionar educação de qualidade para todos, promovendo o desenvolvimento integral dos alunos e preparando-os para os desafios do futuro.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 75,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Harmonia",
+        "city": "Rio de Janeiro",
+        "type": "Privada",
+        "neighborhood": "Copacabana",
+        "phoneNumber": "(21) 5555-5555",
+        "adress": "Rua da Paz, 789",
+        "about": "A Escola Harmonia é reconhecida por sua proposta pedagógica inovadora, que valoriza a formação integral dos alunos, aliando conhecimento acadêmico, desenvolvimento emocional e social.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 25,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "1.600"
+            },
+            "primarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Aurora Boreal",
+        "city": "Brasília",
+        "type": "Privada",
+        "neighborhood": "Asa Sul",
+        "phoneNumber": "(61) 9876-5432",
+        "adress": "Quadra dos Sonhos, 1234",
+        "about": "A Escola Aurora Boreal destaca-se pela excelência acadêmica e pelo compromisso com o desenvolvimento pessoal e intelectual dos alunos, preparando-os para os desafios do século XXI.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 25,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.600"
+            },
+            "primarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Pioneiros do Saber",
+        "city": "Porto Alegre",
+        "type": "Privada",
+        "neighborhood": "Moinhos de Vento",
+        "phoneNumber": "(51) 3333-3333",
+        "adress": "Rua das Ideias, 567",
+        "about": "A Escola Pioneiros do Saber é reconhecida por sua tradição em oferecer uma educação de qualidade, priorizando o desenvolvimento acadêmico, social e emocional dos alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 30,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.700"
+            },
+            "primarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 2.000"
+            },
+            "secondarySchool": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.300"
+            },
+            "highSchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.900"
+            }
+        }
+    },
+    {
+        "name": "Escola Girassol",
+        "city": "Recife",
+        "type": "Pública",
+        "neighborhood": "Boa Viagem",
+        "phoneNumber": "(81) 5555-5555",
+        "adress": "Avenida da Alegria, 789",
+        "about": "A Escola Girassol é um espaço de aprendizado e convivência, onde os alunos são estimulados a desenvolver seu potencial intelectual e a contribuir para a construção de uma sociedade mais justa.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Mundo Encantado",
+        "city": "Florianópolis",
+        "type": "Privada",
+        "neighborhood": "Centro",
+        "phoneNumber": "(48) 1234-5678",
+        "adress": "Praça da Fantasia, 321",
+        "about": "A Escola Mundo Encantado proporciona uma experiência educacional única, onde o lúdico e o acadêmico se complementam para estimular a curiosidade e o aprendizado das crianças.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.600"
+            },
+            "primarySchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 75,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Saber & Cores",
+        "city": "Curitiba",
+        "type": "Pública",
+        "neighborhood": "Batel",
+        "phoneNumber": "(41) 9876-5432",
+        "adress": "Rua das Cores, 456",
+        "about": "A Escola Saber & Cores valoriza a diversidade e a criatividade, promovendo um ambiente inclusivo e estimulante para o desenvolvimento integral dos alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 80,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Harmonia das Letras",
+        "city": "Fortaleza",
+        "type": "Privada",
+        "neighborhood": "Aldeota",
+        "phoneNumber": "(85) 5555-5555",
+        "adress": "Avenida da Cultura, 1234",
+        "about": "A Escola Harmonia das Letras é um espaço onde a paixão pelo conhecimento e pela cultura é cultivada diariamente, proporcionando uma formação sólida e inspiradora para os alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 25,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.700"
+            },
+            "primarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 2.000"
+            },
+            "secondarySchool": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.300"
+            },
+            "highSchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.900"
+            }
+        }
+    },
+    {
+        "name": "Escola Aurora Austral",
+        "city": "Manaus",
+        "type": "Pública",
+        "neighborhood": "Centro",
+        "phoneNumber": "(92) 1234-5678",
+        "adress": "Rua das Estrelas, 789",
+        "about": "A Escola Aurora Austral é um espaço de aprendizado e descobertas, onde os alunos são incentivados a explorar seu potencial e a contribuir para uma sociedade mais justa e inclusiva.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Páginas do Saber",
+        "city": "Porto Velho",
+        "type": "Privada",
+        "neighborhood": "Liberdade",
+        "phoneNumber": "(69) 9876-5432",
+        "adress": "Avenida da Liberdade, 1234",
+        "about": "A Escola Páginas do Saber é um ambiente educacional dinâmico e inovador, onde os alunos são incentivados a explorar diferentes áreas do conhecimento e a desenvolver seu pensamento crítico.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 30,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.600"
+            },
+            "primarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Brilho do Saber",
+        "city": "Natal",
+        "type": "Pública",
+        "neighborhood": "Lagoa Nova",
+        "phoneNumber": "(84) 5555-5555",
+        "adress": "Rua da Educação, 567",
+        "about": "A Escola Brilho do Saber tem como missão proporcionar educação de qualidade para todos, promovendo o respeito à diversidade e o desenvolvimento integral dos alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 75,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Mentes Brilhantes",
+        "city": "Goiânia",
+        "type": "Privada",
+        "neighborhood": "Setor Bueno",
+        "phoneNumber": "(62) 3333-3333",
+        "adress": "Avenida das Ideias, 456",
+        "about": "A Escola Mentes Brilhantes é reconhecida por seu ensino de excelência e pelo estímulo ao pensamento criativo e inovador, preparando os alunos para os desafios do futuro.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 25,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.700"
+            },
+            "primarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 2.000"
+            },
+            "secondarySchool": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.300"
+            },
+            "highSchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.900"
+            }
+        }
+    },
+    {
+        "name": "Escola Estrela Cadente",
+        "city": "Vitória",
+        "type": "Pública",
+        "neighborhood": "Praia do Canto",
+        "phoneNumber": "(27) 1234-5678",
+        "adress": "Rua das Estrelas, 789",
+        "about": "A Escola Estrela Cadente é um espaço de aprendizado e convivência, onde os alunos são estimulados a desenvolver seu potencial e a contribuir para a construção de uma sociedade mais justa e solidária.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Raízes do Conhecimento",
+        "city": "Cuiabá",
+        "type": "Pública",
+        "neighborhood": "Centro Norte",
+        "phoneNumber": "(65) 5555-5555",
+        "adress": "Rua das Raízes, 567",
+        "about": "A Escola Raízes do Conhecimento busca proporcionar uma educação de excelência, valorizando a diversidade cultural e promovendo o desenvolvimento integral dos alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 75,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Universo das Letras",
+        "city": "João Pessoa",
+        "type": "Privada",
+        "neighborhood": "Manaíra",
+        "phoneNumber": "(83) 3333-3333",
+        "adress": "Avenida dos Livros, 456",
+        "about": "A Escola Universo das Letras oferece uma educação de qualidade, onde o estímulo à leitura e à escrita são fundamentais para o desenvolvimento integral dos alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 25,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.700"
+            },
+            "primarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 2.000"
+            },
+            "secondarySchool": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.300"
+            },
+            "highSchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.900"
+            }
+        }
+    },
+    {
+        "name": "Escola Brisa do Saber",
+        "city": "São Luís",
+        "type": "Privada",
+        "neighborhood": "Renascença",
+        "phoneNumber": "(98) 9876-5432",
+        "adress": "Avenida da Brisa, 1234",
+        "about": "A Escola Brisa do Saber é reconhecida por oferecer uma educação de qualidade, que valoriza o protagonismo dos alunos e o respeito à diversidade.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 30,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.600"
+            },
+            "primarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Luz do Saber",
+        "city": "Teresina",
+        "type": "Pública",
+        "neighborhood": "Centro",
+        "phoneNumber": "(86) 1234-5678",
+        "adress": "Rua da Luz, 789",
+        "about": "A Escola Luz do Saber tem como objetivo oferecer uma educação de qualidade, promovendo o desenvolvimento integral dos alunos e preparando-os para a vida em sociedade.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Monteiro Lobato",
+        "city": "Campinas",
+        "type": "Pública",
+        "neighborhood": "Cambuí",
+        "phoneNumber": "(19) 5555-5555",
+        "adress": "Rua das Histórias, 123",
+        "about": "A Escola Monteiro Lobato é uma instituição comprometida em proporcionar uma educação de qualidade, inspirando os alunos a desenvolverem seu potencial acadêmico e pessoal.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Estrela Guia",
+        "city": "Porto Alegre",
+        "type": "Privada",
+        "neighborhood": "Petrópolis",
+        "phoneNumber": "(51) 3333-3333",
+        "adress": "Avenida da Paz, 456",
+        "about": "A Escola Estrela Guia destaca-se por oferecer uma educação de excelência, baseada em valores sólidos e no estímulo à criatividade e ao pensamento crítico.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 35,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.700"
+            },
+            "primarySchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 2.000"
+            },
+            "secondarySchool": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.300"
+            },
+            "highSchool": {
+                "vacancies": 75,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.900"
+            }
+        }
+    },
+    {
+        "name": "Escola Luz do Amanhã",
+        "city": "Palmas",
+        "type": "Privada",
+        "neighborhood": "Plano Diretor Sul",
+        "phoneNumber": "(63) 3333-3333",
+        "adress": "Avenida da Esperança, 123",
+        "about": "A Escola Luz do Amanhã tem como missão proporcionar uma educação de qualidade, valorizando o potencial de cada aluno e preparando-os para os desafios do futuro.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 30,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 1.600"
+            },
+            "primarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "R$ 1.900"
+            },
+            "secondarySchool": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.200"
+            },
+            "highSchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "R$ 2.800"
+            }
+        }
+    },
+    {
+        "name": "Escola Girassol Encantado",
+        "city": "Aracaju",
+        "type": "Pública",
+        "neighborhood": "Atalaia",
+        "phoneNumber": "(79) 9876-5432",
+        "adress": "Rua dos Girassóis, 789",
+        "about": "A Escola Girassol Encantado tem como objetivo promover uma educação de qualidade, respeitando a diversidade e estimulando o protagonismo dos alunos.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 45,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 65,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 55,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 85,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    },
+    {
+        "name": "Escola Estrela do Oriente",
+        "city": "Teresópolis",
+        "type": "Pública",
+        "neighborhood": "Várzea",
+        "phoneNumber": "(21) 1234-5678",
+        "adress": "Rua das Estrelas, 789",
+        "about": "A Escola Estrela do Oriente busca proporcionar uma educação de qualidade, promovendo o desenvolvimento integral dos alunos e o respeito à diversidade.",
+        "schoolFeedback": [],
+        "educationType": {
+            "kindergarten": {
+                "vacancies": 40,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "primarySchool": {
+                "vacancies": 60,
+                "shifts": [
+                    "Manhã"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "secondarySchool": {
+                "vacancies": 50,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            },
+            "highSchool": {
+                "vacancies": 70,
+                "shifts": [
+                    "Manhã",
+                    "Tarde"
+                ],
+                "schoolFee": "Gratuito"
+            }
+        }
+    }
+]
