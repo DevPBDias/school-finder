@@ -3,6 +3,7 @@
         "name": "Escola Sol Nascente",
         "city": "São Paulo",
         "type": "Privada",
+        "image": "https://i.imgur.com/AUjIB0t.jpg",
         "neighborhood": "Jardins",
         "phoneNumber": "(11) 1234-5678",
         "adress": "Rua das Flores, 123",
@@ -45,6 +46,7 @@
     {
         "name": "Escola Monte Verde",
         "city": "Belo Horizonte",
+        "image": "https://i.imgur.com/U0JXXLU.jpg",
         "type": "Pública",
         "neighborhood": "Centro",
         "phoneNumber": "(31) 9876-5432",
@@ -88,6 +90,7 @@
     {
         "name": "Escola Harmonia",
         "city": "Rio de Janeiro",
+        "image": "https://i.imgur.com/cRVP5qO.jpg",
         "type": "Privada",
         "neighborhood": "Copacabana",
         "phoneNumber": "(21) 5555-5555",
@@ -131,6 +134,7 @@
     {
         "name": "Escola Aurora Boreal",
         "city": "Brasília",
+        "image": "https://i.imgur.com/5zAoicW.jpg",
         "type": "Privada",
         "neighborhood": "Asa Sul",
         "phoneNumber": "(61) 9876-5432",
@@ -174,6 +178,7 @@
     {
         "name": "Escola Pioneiros do Saber",
         "city": "Porto Alegre",
+        "image": "https://i.imgur.com/ZHzSq1A.jpg",
         "type": "Privada",
         "neighborhood": "Moinhos de Vento",
         "phoneNumber": "(51) 3333-3333",
@@ -217,6 +222,7 @@
     {
         "name": "Escola Girassol",
         "city": "Recife",
+        "image": "https://i.imgur.com/KWLAP0t.jpg",
         "type": "Pública",
         "neighborhood": "Boa Viagem",
         "phoneNumber": "(81) 5555-5555",
@@ -260,6 +266,7 @@
     {
         "name": "Escola Mundo Encantado",
         "city": "Florianópolis",
+        "image": "https://i.imgur.com/u1ie21f.jpg",
         "type": "Privada",
         "neighborhood": "Centro",
         "phoneNumber": "(48) 1234-5678",
@@ -303,6 +310,7 @@
     {
         "name": "Escola Saber & Cores",
         "city": "Curitiba",
+        "image": "https://i.imgur.com/ZJOlxmA.jpg",
         "type": "Pública",
         "neighborhood": "Batel",
         "phoneNumber": "(41) 9876-5432",
@@ -346,6 +354,7 @@
     {
         "name": "Escola Harmonia das Letras",
         "city": "Fortaleza",
+        "image": "https://i.imgur.com/vEONoI4.jpg",
         "type": "Privada",
         "neighborhood": "Aldeota",
         "phoneNumber": "(85) 5555-5555",
@@ -389,6 +398,7 @@
     {
         "name": "Escola Aurora Austral",
         "city": "Manaus",
+        "image": "https://i.imgur.com/En3IpzS.jpg",
         "type": "Pública",
         "neighborhood": "Centro",
         "phoneNumber": "(92) 1234-5678",
@@ -432,6 +442,7 @@
     {
         "name": "Escola Páginas do Saber",
         "city": "Porto Velho",
+        "image": "https://i.imgur.com/twMHpuR.jpg",
         "type": "Privada",
         "neighborhood": "Liberdade",
         "phoneNumber": "(69) 9876-5432",
@@ -475,6 +486,7 @@
     {
         "name": "Escola Brilho do Saber",
         "city": "Natal",
+        "image": "https://i.imgur.com/fcG695d.jpg",
         "type": "Pública",
         "neighborhood": "Lagoa Nova",
         "phoneNumber": "(84) 5555-5555",
@@ -518,6 +530,7 @@
     {
         "name": "Escola Mentes Brilhantes",
         "city": "Goiânia",
+        "image": "https://i.imgur.com/9KKUWry.jpg",
         "type": "Privada",
         "neighborhood": "Setor Bueno",
         "phoneNumber": "(62) 3333-3333",
@@ -561,6 +574,7 @@
     {
         "name": "Escola Estrela Cadente",
         "city": "Vitória",
+        "image": "https://i.imgur.com/ls7pwUo.jpg",
         "type": "Pública",
         "neighborhood": "Praia do Canto",
         "phoneNumber": "(27) 1234-5678",
@@ -604,6 +618,7 @@
     {
         "name": "Escola Raízes do Conhecimento",
         "city": "Cuiabá",
+        "image": "https://i.imgur.com/ilsJF6S.jpg",
         "type": "Pública",
         "neighborhood": "Centro Norte",
         "phoneNumber": "(65) 5555-5555",
@@ -647,6 +662,7 @@
     {
         "name": "Escola Universo das Letras",
         "city": "João Pessoa",
+        "image": "https://i.imgur.com/zVOoDLO.jpg",
         "type": "Privada",
         "neighborhood": "Manaíra",
         "phoneNumber": "(83) 3333-3333",
@@ -690,6 +706,7 @@
     {
         "name": "Escola Brisa do Saber",
         "city": "São Luís",
+        "image": "https://i.imgur.com/nQg0Ups.jpg",
         "type": "Privada",
         "neighborhood": "Renascença",
         "phoneNumber": "(98) 9876-5432",
@@ -733,6 +750,7 @@
     {
         "name": "Escola Luz do Saber",
         "city": "Teresina",
+        "image": "https://i.imgur.com/SMb8Mcx.jpg",
         "type": "Pública",
         "neighborhood": "Centro",
         "phoneNumber": "(86) 1234-5678",
@@ -776,6 +794,7 @@
     {
         "name": "Escola Monteiro Lobato",
         "city": "Campinas",
+        "image": "https://i.imgur.com/iFdAQ1x.jpg",
         "type": "Pública",
         "neighborhood": "Cambuí",
         "phoneNumber": "(19) 5555-5555",
@@ -819,6 +838,7 @@
     {
         "name": "Escola Estrela Guia",
         "city": "Porto Alegre",
+        "image": "https://i.imgur.com/SG5IrV2.jpg",
         "type": "Privada",
         "neighborhood": "Petrópolis",
         "phoneNumber": "(51) 3333-3333",
@@ -862,6 +882,7 @@
     {
         "name": "Escola Luz do Amanhã",
         "city": "Palmas",
+        "image": "https://i.imgur.com/nhD8B6M.jpg",
         "type": "Privada",
         "neighborhood": "Plano Diretor Sul",
         "phoneNumber": "(63) 3333-3333",
@@ -905,6 +926,7 @@
     {
         "name": "Escola Girassol Encantado",
         "city": "Aracaju",
+        "image": "https://i.imgur.com/clKYBJv.jpg",
         "type": "Pública",
         "neighborhood": "Atalaia",
         "phoneNumber": "(79) 9876-5432",
@@ -948,6 +970,7 @@
     {
         "name": "Escola Estrela do Oriente",
         "city": "Teresópolis",
+        "image": "https://i.imgur.com/s8pIUNg.jpg",
         "type": "Pública",
         "neighborhood": "Várzea",
         "phoneNumber": "(21) 1234-5678",
